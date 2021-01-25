@@ -1,0 +1,5 @@
+low=float(input("輸入下底"))
+top=float(input("輸入上底"))
+high=float(input("輸入高"))
+arithpy=((low+top)*high/2)
+print("面積",arithpy)
